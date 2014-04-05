@@ -1,0 +1,25 @@
+{
+    "name": "itsaafrin/isms",
+    "description": "A Laravel 4 SMS Api Package (isms.com.my)",
+    "keywords": ["laravel","sms","api"],
+    "authors": [
+        {
+            "name": "Aafrin",
+            "email": "info@aafrin.com",
+            "homepage": "http://www.aafrin.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Itsaafrin\\Isms\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
