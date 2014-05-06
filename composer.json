@@ -2,6 +2,7 @@
     "name": "itsaafrin/isms",
     "description": "A Laravel 4 SMS Api Package (isms.com.my)",
     "keywords": ["laravel","sms","api"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Aafrin",
